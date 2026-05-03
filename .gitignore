@@ -42,6 +42,9 @@ Thumbs.db
 # dotenv
 .env
 
+# Logs
+agent_system.log
+
 # Byte-compiled / optimized / DLL files
 *.pyc
 *.pyo
